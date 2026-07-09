@@ -7,6 +7,9 @@ Exploratory and statistical analysis of vendor sales, pricing efficiency, and in
 🔗 <b>Tableau Dashboard:</b> <a href="https://public.tableau.com/app/profile/shrey.parekh/viz/VendorPerformanceAnalysis_17747647991500/VendorPerformanceDashboard" target="_blank">
 Vendor Performance Dashboard </a>
 
+🔗 <b>Power BI Dashboard:</b> <a href="https://app.powerbi.com/view?r=eyJrIjoiNmY1ZjVjOWYtMDI4ZS00NmY5LTg1YTEtZjI4NjMxMzI1MTE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank">
+Vendor Performance Dashboard </a>
+
 <br><br>
 
 🔍 <b>Key Insights:</b>

@@ -29,3 +29,6 @@ Vendor Performance Dashboard </a>
   <li>Tableau , Power BI (Dashboard & visualization)</li>
   <li>Statistical Analysis (Hypothesis Testing)</li>
 </ul>
+
+📄 Detailed Business Insights & Recommendations: [Vendor Performance Report]
+(https://github.com/shrey016/Vendor-performance-analysis/blob/main/Vendor%20Performance%20Report.pdf)

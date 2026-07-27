@@ -31,5 +31,4 @@ Vendor Performance Dashboard </a>
 </ul>
 
 
-📄 Detailed Business Insights & Recommendations: [Vendor Performance Report]
-(https://github.com/shrey016/Vendor-performance-analysis/blob/98ec07fe7adc9f326b2132ec9cbea8fcdce62b6e/Vendor%20Performance%20Report.pdf)
+📄 Detailed Business Insights & Recommendations: [Vendor Performance Report](https://github.com/shrey016/Vendor-performance-analysis/blob/main/Vendor%20Performance%20Report.pdf)

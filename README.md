@@ -26,6 +26,6 @@ Vendor Performance Dashboard </a>
 <ul>
   <li>Python (Pandas, NumPy)</li>
   <li>SQL (Data extraction & transformation)</li>
-  <li>Tableau (Dashboard & visualization)</li>
+  <li>Tableau , Power BI (Dashboard & visualization)</li>
   <li>Statistical Analysis (Hypothesis Testing)</li>
 </ul>
